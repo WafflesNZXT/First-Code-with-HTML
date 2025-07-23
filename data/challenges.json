@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "title": "Drink a glass of water",
+    "description": "Hydrate your body with a refreshing glass of water. Your body will thank you!",
+    "category": "wellness",
+    "icon": "💧",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "title": "Stretch for 1 minute",
+    "description": "Take a moment to stretch your body. Focus on areas that feel tense or tight.",
+    "category": "physical",
+    "icon": "🧘",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "title": "Text someone you haven't spoken to in a while",
+    "description": "Reconnect with an old friend or family member. A simple 'thinking of you' message can brighten their day.",
+    "category": "social",
+    "icon": "📱",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "title": "Take 5 deep breaths",
+    "description": "Practice mindful breathing. Inhale slowly for 4 counts, hold for 4, then exhale for 4.",
+    "category": "mental",
+    "icon": "🌬️",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "title": "Look out a window for 30 seconds",
+    "description": "Give your eyes a break and connect with the outside world. Notice something you haven't seen before.",
+    "category": "mental",
+    "icon": "🪟",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "title": "Write down one thing you're grateful for",
+    "description": "Practice gratitude by writing down something that made you happy or thankful today.",
+    "category": "mental",
+    "icon": "📝",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "title": "Do 10 jumping jacks",
+    "description": "Get your heart pumping with a quick burst of cardio. Feel the energy boost!",
+    "category": "physical",
+    "icon": "🏃",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "title": "Organize one small item on your desk",
+    "description": "Clear a small space around you. A tidy environment can lead to a clearer mind.",
+    "category": "productivity",
+    "icon": "🗂️",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "title": "Smile at yourself in the mirror",
+    "description": "Give yourself some love and positivity. You deserve kindness, especially from yourself.",
+    "category": "mental",
+    "icon": "😊",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "title": "Listen to your favorite song",
+    "description": "Take 3-4 minutes to enjoy music that makes you happy. Let it lift your mood.",
+    "category": "wellness",
+    "icon": "🎵",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "title": "Do 10 push-ups (or wall push-ups)",
+    "description": "Strengthen your upper body with push-ups. Modify against a wall if needed.",
+    "category": "physical",
+    "icon": "💪",
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "title": "Write down 3 things on your mind",
+    "description": "Clear mental clutter by writing down thoughts, worries, or ideas floating in your head.",
+    "category": "mental",
+    "icon": "🧠",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "title": "Compliment someone genuinely",
+    "description": "Brighten someone's day with a sincere compliment. It could be a colleague, friend, or stranger.",
+    "category": "social",
+    "icon": "💝",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "title": "Stand up and walk for 2 minutes",
+    "description": "Break up your sitting time with a short walk, even if it's just around your room or office.",
+    "category": "physical",
+    "icon": "🚶",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "title": "Clean your phone screen",
+    "description": "Give your most-used device a quick clean. You'll be surprised how much clearer everything looks!",
+    "category": "productivity",
+    "icon": "📱",
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "title": "Eat a piece of fruit",
+    "description": "Nourish your body with natural vitamins and fiber. Your body will appreciate the healthy fuel.",
+    "category": "wellness",
+    "icon": "🍎",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "title": "Say 'thank you' to someone",
+    "description": "Express genuine gratitude to someone who helped you today, no matter how small the gesture.",
+    "category": "social",
+    "icon": "🙏",
+    "difficulty": "easy"
+  },
+  {
+    "id": 18,
+    "title": "Do 20 seconds of planking",
+    "description": "Strengthen your core with a short plank. Focus on keeping your body straight and strong.",
+    "category": "physical",
+    "icon": "🏋️",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "title": "Read one page of a book or article",
+    "description": "Feed your mind with some reading. It could be fiction, non-fiction, or even a news article.",
+    "category": "mental",
+    "icon": "📚",
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "title": "Take a photo of something beautiful",
+    "description": "Practice mindfulness by noticing beauty around you and capturing it with your camera.",
+    "category": "mental",
+    "icon": "📸",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "title": "Wash your hands mindfully",
+    "description": "Turn a routine task into a mindful moment. Feel the water temperature and soap texture.",
+    "category": "wellness",
+    "icon": "🧼",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "title": "Do 15 squats",
+    "description": "Strengthen your legs and glutes with bodyweight squats. Focus on proper form.",
+    "category": "physical",
+    "icon": "🦵",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "title": "Delete 5 unnecessary files or photos",
+    "description": "Declutter your digital space by removing files you no longer need.",
+    "category": "productivity",
+    "icon": "🗑️",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "title": "Practice good posture for 1 minute",
+    "description": "Sit or stand with proper alignment. Your spine will thank you for the attention.",
+    "category": "physical",
+    "icon": "🧍",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "title": "Write down tomorrow's top priority",
+    "description": "Set yourself up for success by identifying the most important task for tomorrow.",
+    "category": "productivity",
+    "icon": "📋",
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "title": "Do something creative for 2 minutes",
+    "description": "Doodle, write, hum a tune, or do any creative activity that sparks joy.",
+    "category": "mental",
+    "icon": "🎨",
+    "difficulty": "easy"
+  },
+  {
+    "id": 27,
+    "title": "Check in with your feelings",
+    "description": "Take a moment to acknowledge how you're feeling right now without judgment.",
+    "category": "mental",
+    "icon": "❤️",
+    "difficulty": "easy"
+  },
+  {
+    "id": 28,
+    "title": "Make your bed (if not done already)",
+    "description": "Start or end your day with this simple accomplishment that creates a sense of order.",
+    "category": "productivity",
+    "icon": "🛏️",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "title": "Send a positive message to a friend",
+    "description": "Share some positivity by sending an encouraging or funny message to someone you care about.",
+    "category": "social",
+    "icon": "💌",
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "title": "Step outside for 1 minute",
+    "description": "Get some fresh air and natural light, even if it's just stepping onto a balcony or porch.",
+    "category": "wellness",
+    "icon": "🌞",
+    "difficulty": "easy"
+  }
+]
+
